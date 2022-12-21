@@ -1,8 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=HarshitaDPoojary&color=green)
 
 <h2>Hi, I’m Harshita Poojary. You can call me HP!</h2>
-
-## 🙋🏻 About Me:
+<!-- ## 🙋🏻 About Me: -->
 
 👀 I’m interested in Backend Development, Machine Learning, Neural Networks, Deep Learning. </br>
 🌱 I’m currently learning Data-Centric Machine Learning in Production. </br>
