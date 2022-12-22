@@ -23,10 +23,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitaDPoojary&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 📜 Publications:
-● Harshita Dooja Poojary, Sumithra T.V “[Comparative Analysis of Deep Learning techniques for Malaria Detection](https://ieeexplore.ieee.org/document/9972167)”, IEEE (2022). </br>
-● Saurabh Bhaskarrao Kshirsagar; Harshita Dooja Poojary; Yuvraj Singh Rana; Avik Jain; Naga Sasank Bonda; Shikhar Saxena “[System and Method for Early Detection and Post Disease Detection of Dementia Patients](https://ieeexplore.ieee.org/document/9885629)”, IEEE (2022). </br>
-● Harshita Dooja Poojary, Nachiket Mahesh Shinde, Akash Kumar Singh, Vivek Kothuru, Saurabh Bhaskarrao Kshirsagar, Harsh Agarwal “[Classification of Garbage For Robotic System Using Deep Learning Techniques](https://ieeexplore.ieee.org/document/9788240)”, IEEE (2022). </br>
-● Sumithra T.V, Harshita Dooja Poojary, Akshata Dattaram Tatkare, Pranali Mahesh Mugutrao, Manasi Ramesh Pandit “[Innovative Teaching and Learning Interface with Evaluation Tool](http://ijircce.com/admin/main/storage/app/pdf/GV40CdSbq5UCiHZThcc1wMyoAY2weBvOqClvBbUV.pdf)”, International Journal of Innovative Research in Computer and Communication Engineering (2019).
+* Harshita Dooja Poojary, Sumithra T.V “[Comparative Analysis of Deep Learning techniques for Malaria Detection](https://ieeexplore.ieee.org/document/9972167)”, IEEE (2022). </br>
+* Saurabh Bhaskarrao Kshirsagar; Harshita Dooja Poojary; Yuvraj Singh Rana; Avik Jain; Naga Sasank Bonda; Shikhar Saxena “[System and Method for Early Detection and Post Disease Detection of Dementia Patients](https://ieeexplore.ieee.org/document/9885629)”, IEEE (2022). </br>
+* Harshita Dooja Poojary, Nachiket Mahesh Shinde, Akash Kumar Singh, Vivek Kothuru, Saurabh Bhaskarrao Kshirsagar, Harsh Agarwal “[Classification of Garbage For Robotic System Using Deep Learning Techniques](https://ieeexplore.ieee.org/document/9788240)”, IEEE (2022). </br>
+* Sumithra T.V, Harshita Dooja Poojary, Akshata Dattaram Tatkare, Pranali Mahesh Mugutrao, Manasi Ramesh Pandit “[Innovative Teaching and Learning Interface with Evaluation Tool](http://ijircce.com/admin/main/storage/app/pdf/GV40CdSbq5UCiHZThcc1wMyoAY2weBvOqClvBbUV.pdf)”, International Journal of Innovative Research in Computer and Communication Engineering (2019).
 
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HarshitaDPoojary&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
