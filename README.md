@@ -7,7 +7,7 @@
 🌱 I’m currently learning Data-Centric Machine Learning in Production. </br>
 🤝 I’m looking to collaborate on AI projects focused towards healthcare. </br>
 ⚡ Fun fact: I also enjoy poetry, psychology.<br>
-📫 You can contact me via [email](mailto:dmpoojary116@gmail.com), [linkedin](https://www.linkedin.com/in/harshitapoojary/), [whatsapp](https://wa.me/919930617205). </br>
+📫 You can contact me via [email](mailto:harshita1.poojary@gmail.com), [linkedin](https://www.linkedin.com/in/harshitapoojary/), [whatsapp](https://wa.me/919930617205). </br>
 🔍 Wanna know more about me? Check my [Portfolio](https://harshitadpoojary.github.io/harshitapoojary.github.io/).
 
 
